@@ -121,7 +121,7 @@ namespace Modelo
                 else
                 {
                     aux.Push(pilha.Pop());
-                    MessageBox.Show("Movendo o pallet " + p.Nome + " para pilha auxiliar!0");
+                    MessageBox.Show("Movendo o pallet " + p.Nome + " para pilha auxiliar!");
                 }
             }// fim while
 
